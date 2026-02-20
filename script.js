@@ -15,7 +15,7 @@ function generateFact() {
   const randomIndex = Math.floor(Math.random() * facts.length);
   const factBox = document.getElementById("factBox");
   factBox.style.animation = "none"; // reset animation
-  void factBox.offsetWidth; // trigger reflow to restart animation
+  void factBox.offsetWidth; //triggeer it
   factBox.innerText = facts[randomIndex];
   factBox.style.animation = "pop 0.3s ease";
 }
