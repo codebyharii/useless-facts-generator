@@ -16,10 +16,5 @@ A fun little project that serves one purpose: spit out completely useless, rando
 
 The generator pulls from a list of bizarre, pointless, or humorous facts and delivers a new one every time you run it.
 
-Examples:
 
-“Bananas are berries, but strawberries aren’t.”
 
-“A group of flamingos is called a flamboyance.”
-
-“Butterflies taste with their feet.”
